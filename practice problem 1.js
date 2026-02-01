@@ -14,3 +14,7 @@ for (j=0;j<arr2.length;j++)
  console.log(arrr1);
 }
 
+let str 1 = "abhinav bajpai"
+let count = str1.split("a"). length -1;
+console.log(count);
+
